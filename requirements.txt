@@ -5,4 +5,5 @@ seaborn
 plotly
 Flask
 scikit-Learn
+flask_cors
 -e .
